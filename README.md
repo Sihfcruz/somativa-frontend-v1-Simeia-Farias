@@ -1,6 +1,6 @@
 # 💻 GeekStore
 
-Este é um projeto desenvolvido para a avaliação de Front-End, focado em criar interatividade para uma loja onde vende produtos nerds, como por exemplo bonecos.
+Este é um projeto desenvolvido para a avaliação de Front-End, focado em criar interatividade para uma loja onde vende produtos nerds, como por exemplo bonecos.No projeto vc pode escolher seu item, aicionar no carrinho, alem disso tem promoções e o programa calcula o preço automaticamente
 
 ## 🛠️ Tecnologias Utilizadas
 * HTML5 (Semântica e Acessibilidade)
